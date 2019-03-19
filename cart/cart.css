@@ -1,0 +1,104 @@
+.drop-bn{
+    background-color: #f0f0f0;
+    border: 1px solid #D2D2D2;
+    margin-right: 20px;
+}
+.under-line{
+    background-color: #CADBDB;
+    border: 1px solid #A2B7B8;
+}
+.card{
+    border-style: none;
+}
+.p-marg{
+    margin-top: -10px;
+}
+.h-marg{
+  padding-top: 7px;
+}
+.container{
+    font-family: 'Museo Sans',Arial,Helvetica,sans-serif;
+    margin-top: 30px;
+    font-size: 100%;
+}
+.icn{
+    margin-left: 20px;
+
+}
+.caret-pad{
+    padding-right: 50px;
+}
+.bt-pad{
+padding: 10px 55px;
+    font-weight: bold;
+    margin: -10px -30px;
+}
+.price{
+    text-align: right;
+    margin-left: auto;
+}
+.sub-font-offer{
+    color: #71928E;
+
+          }
+
+.sub-font{
+    color: #6d6e70;
+}
+.head{
+    background-color:#6d6e70;
+    color: white;
+    padding: 10px 20px;
+    text-align: left;
+    border-radius: 5px 5px 0px 0px;
+
+}
+.bttt{
+
+}
+
+.body{
+    background-color: #f2f2f2;
+    border-radius: 0px 0px 5px 5px;
+    padding: 15px;
+}
+
+.card-title{
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px 10px;
+}
+.label{
+    color: #6d6e70 ;
+    font-size: 100%;
+    font-weight: bold;
+}
+.input{
+
+    border-radius: 4px;
+    width: 250px;
+    display: inline-block;
+
+}
+.bn{
+    display: flex;
+    justify-content: center;
+    font-size: 100%;
+    font-weight: bold;
+
+}
+.frgt{
+    display: flex;
+
+    justify-content: center;
+    padding-top: 20px;
+    margin-bottom: -15px;
+}
+
+.btt{
+    margin-top: 20px;
+}
+.frgt:hover{
+    color: red;
+}

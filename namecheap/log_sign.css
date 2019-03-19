@@ -1,0 +1,100 @@
+.container{
+    font-family: 'Museo Sans',Arial,Helvetica,sans-serif;
+    margin-top: 30px;
+    font-size: 100%;
+
+}
+.card{
+    border: none;
+
+}
+.head{
+    background-color:#6d6e70;
+    color: white;
+    padding: 10px 20px;
+    text-align: left;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+.body{
+    background-color: #f2f2f2;
+    border-radius: 0px 0px 5px 5px;
+}
+.car{
+    margin-bottom: 30px;
+
+}
+.contain{
+    margin-left: 22%;
+    width: 55%;
+}
+.card-title{
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px 10px;
+}
+.label{
+    color: #6d6e70 ;
+    font-size: 100%;
+    font-weight: bold;
+}
+.input{
+
+    border-radius: 4px;
+    width: 250px;
+    display: inline-block;
+
+}
+.bn{
+    display: flex;
+    justify-content: center;
+    font-size: 100%;
+    font-weight: bold;
+}
+.frgt{
+    display: flex;
+
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.btt{
+
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#checkbox
+{
+    display: inline;
+}
+.pera{
+    color: #868686;;
+}
+.marg{
+    margin-left: 48px;
+}
+.req{
+margin-left: 10px;
+    color: #de3723 ;
+    font-weight: bold;
+    font-size: 14px;
+}
+.invalid{
+    font-size: 14px;
+    margin-top: 15px;
+    color: #de3723 ;
+}
+a.frt:hover{
+color: #de3723;
+}
+
+.field-icon {
+
+    margin-left:-28px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 6;
+}

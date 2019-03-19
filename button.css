@@ -1,0 +1,25 @@
+
+a
+{
+    width: 100%;
+    background-color: #3af7f1;
+    margin: 3%;
+    background-image: linear-gradient(white,cyan);
+    border-radius: 10px;
+    padding: 15px 40px;
+    display: inline-block;
+    font-size: 35px;
+    box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.3);
+
+}
+i{
+    margin-right: 20px;
+    color: black;
+}
+strong{
+    margin-left: 20px;
+
+}
+#content{
+    margin-top: 40%;
+}
