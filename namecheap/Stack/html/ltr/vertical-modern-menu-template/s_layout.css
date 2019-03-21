@@ -273,7 +273,6 @@ margin-bottom: 5px;
 .p-det{
     font-weight: bold;
     margin-left: 15px;
-
 }
 
 .p-det-st{
@@ -286,6 +285,8 @@ margin-right: 15px;
 .h-det{
     font-weight: bold;
     margin-bottom: 5px !important;
+    margin-left: -15px !important;
+    text-align: center;
 }
 .imag{
     height: 160px;
@@ -293,6 +294,7 @@ margin-right: 15px;
 .new-r{
     margin-top: 20px !important;
 }
+
 .collapse-mar{
     margin-top: -2px !important;
 }

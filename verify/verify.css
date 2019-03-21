@@ -1,0 +1,89 @@
+body{
+    background-color: #69B0B2;
+}
+.top_mar{
+    padding-top: 120px;
+}
+.card-cont{
+    background-color: #E6EEFB;
+    border: 7px solid #EEDFFC;
+    border-radius: 5px !important;
+    padding: 4px 15px;
+}
+.imgs{
+    margin-top: -60px;
+
+    padding-left: 5px;
+
+    padding-right: 5px;
+
+}
+.img-cont{
+
+    border: 7px solid #fff;
+
+    border-radius: 5px !important;
+}
+.icon-cont{
+    border: 2px solid #1FAB56;
+    padding: 5px;
+}
+.head-cont{
+padding: 5px 0px;
+text-align: center;
+}
+.head-cont-text{
+}
+.icon-text{
+    background-color: #49EF7F;
+text-align: center;
+    font-size: 30px;
+    border-radius: 7px;
+    box-shadow: black;
+    padding: 10px;
+    box-shadow: 5px 5px 5px #545559;
+}
+
+.p-text{
+    background-color: #11A64A;
+    color: white;
+    margin: 0 !important;
+    padding: 0px 6px 1px 6px !important;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btns{
+    padding-top: 5px;
+    text-align: center;
+
+}
+.clk-bt{
+    background-color: #13506C;
+    color: #ffffff;
+    border-radius: 7px;
+   text-align: center;
+    padding: 0px 20px 2px 20px !important;
+}
+.clk-bt:hover{
+    color: #ffffff;
+}
+.txt-co{
+    padding-right: 5px;
+}
+.co-tx{
+    padding-bottom: 5px !important;
+    font-size: 4px;
+}
+.h-mar{
+    margin-bottom: 0px !important;
+}
+.bod-bottom{
+    padding-bottom: 5px !important;
+}
+/*.font-sz{*/
+    /*font-size: 13px;*/
+/*}*/
